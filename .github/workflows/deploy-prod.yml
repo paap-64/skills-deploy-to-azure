@@ -10,8 +10,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <paap-64>-azure-ttt
-  AZURE_WEBAPP_NAME: <paap-64>-ttt-app
+  DOCKER_IMAGE_NAME: paap-64-azure-ttt
+  AZURE_WEBAPP_NAME: paap-64-ttt-app
   ###############################################
 
 jobs:
